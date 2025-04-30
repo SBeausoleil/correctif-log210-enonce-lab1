@@ -1,6 +1,6 @@
 # Système de gestion de l'apprentissage
 
-Version: Automne 2024 (1.1.2)  
+Version: Automne 2024 (1.1.3)  
 Si vous trouvez des incohérences ou vous avez des questions, créez un [Issue](https://github.com/profcfuhrmanets/log210-enonce-lab1/issues).
 
 ## Table des matières
@@ -168,7 +168,7 @@ L'objectif de cette partie et de montrer que l'application est conforme aux prin
         3. extraire, convertir et vérifier la présence des paramètres de la requête HTTP
         4. faire un seul appel à la méthode du contrôleur et retourner sa réponse en format JSON avec le code HTTP approprié
         5. intercepter et traiter les erreurs adéquatement
-        6. :warning: [Cette méthode ne doit pas retourner une vue](https://github.com/profcfuhrmanets/log210-jeu-de-des-node-express-ts/wiki/Vue-sans-route-d'API-(endpoint)). Pour ce faire, il faut faire une autre route qui appelle l'opération système.
+        6. :warning: [Cette méthode ne doit pas retourner une vue](https://github.com/profcfuhrmanets/log210-jeu-de-des/wiki/Vue-sans-route-d'API-(endpoint)). Pour ce faire, il faut faire une autre route qui appelle l'opération système.
     2. une méthode avec la même signature est présente dans un contrôleur.
        1. l'opération du contrôleur ne doit pas utiliser d'objets comme paramètres (exception : [le réusinage «Introduce Parameter Object»](https://refactoring.com/catalog/introduceParameterObject.html)).
        2. le retour d'opération correspond à une valeur primitive
@@ -347,8 +347,8 @@ Ici vous trouverez des liens rapides vers les documents et éléments importants
 <!-- Projet -->
 [projet-exigences]: README-exigences-client.md
 [cahier-technique]: README-cahier-technique.md
-[projet-squelette]: https://github.com/profcfuhrmanets/log210-jeu-de-des-node-express-ts/tree/master/docs/Squelette.md
-[projet-sgb]: https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts
+[projet-squelette]: https://github.com/profcfuhrmanets/log210-jeu-de-des/tree/master/docs/Squelette.md
+[projet-sgb]: https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereaux
 
 <!-- Gabarits -->
 [gabarit-rapport]: rapports/RAPPORT-iteration-i.md
