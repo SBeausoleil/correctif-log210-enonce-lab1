@@ -1,7 +1,7 @@
 
 # Déclaration de mission de projet
 
-> Ceci est un exemple de déclaration de mission de projet. Vous pouvez le modifier à vôtre guise. Retirez ces instructions avant la remise.
+> Ceci est un exemple de déclaration de mission de projet. Vous pouvez le modifier à votre guise. Retirez ces instructions avant la remise.
 
 **Objectif :** Notre objectif est d’obtenir une note élevée en livrant un projet bien recherché, organisé et présenté de manière professionnelle.
 
